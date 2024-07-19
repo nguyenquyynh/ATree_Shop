@@ -1,0 +1,196 @@
+[
+    {
+      "id": 1,
+      "content": [
+        {
+          "id": 1,
+          "quest": "Bạn có ngu không ?",
+          "answer": {
+            "caua": "Có!!!!!",
+            "caub": "Yes !!!!",
+            "cauc": "Sure !!!",
+            "caud": "No problem !!1"
+          },
+          "reply": "caua"
+        },
+        {
+          "id": 2,
+          "quest": "Bạn có người yêu chưa ?",
+          "answer": {
+            "caua": "Có!!!!!",
+            "caub": "Yes !!!!",
+            "cauc": "Sure !!!",
+            "caud": "No problem !!1"
+          },
+          "reply": "caua"
+        },
+        {
+          "id": 3,
+          "quest": "Bạn ăn cơm với người yêu chưa ?",
+          "answer": {
+            "caua": "Có!!!!!",
+            "caub": "Yes !!!!",
+            "cauc": "Sure !!!",
+            "caud": "No problem !!1"
+          },
+          "reply": "caua"
+        },
+        {
+          "id": 4,
+          "quest": "Bạn đi chơi với người yêu chưa ?",
+          "answer": {
+            "caua": "Có!!!!!",
+            "caub": "Yes !!!!",
+            "cauc": "Sure !!!",
+            "caud": "No problem !!1"
+          },
+          "reply": "caua"
+        },
+        {
+          "id": 5,
+          "quest": "Bạn có hiểu thầy dạy gì không ?",
+          "answer": {
+            "caua": "Có!!!!!",
+            "caub": "Yes !!!!",
+            "cauc": "Sure !!!",
+            "caud": "No problem !!1"
+          },
+          "reply": "caua"
+        },
+        {
+          "id": 6,
+          "quest": "Bạn có ngu không ?",
+          "answer": {
+            "caua": "Có!!!!!",
+            "caub": "Yes !!!!",
+            "cauc": "Sure !!!",
+            "caud": "No problem !!1"
+          },
+          "reply": "caua"
+        },
+        {
+          "id": 7,
+          "quest": "Bạn có ngu không ?",
+          "answer": {
+            "caua": "Có!!!!!",
+            "caub": "Yes !!!!",
+            "cauc": "Sure !!!",
+            "caud": "No problem !!1"
+          },
+          "reply": "caua"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "content": [
+        {
+          "id": 1,
+          "quest": "Bạn có ngu không ?",
+          "answer": {
+            "caua": "Có!!!!!",
+            "caub": "Yes !!!!",
+            "cauc": "Sure !!!",
+            "caud": "No problem !!1"
+          },
+          "reply": "caua"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "content": [
+        {
+          "id": 1,
+          "quest": "Bạn có ngu không ?",
+          "answer": {
+            "caua": "Có!!!!!",
+            "caub": "Yes !!!!",
+            "cauc": "Sure !!!",
+            "caud": "No problem !!1"
+          },
+          "reply": "caua"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "content": [
+        {
+          "id": 1,
+          "quest": "Bạn có ngu không ?",
+          "answer": {
+            "caua": "Có!!!!!",
+            "caub": "Yes !!!!",
+            "cauc": "Sure !!!",
+            "caud": "No problem !!1"
+          },
+          "reply": "caua"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "content": [
+        {
+          "id": 1,
+          "quest": "Bạn có ngu không ?",
+          "answer": {
+            "caua": "Có!!!!!",
+            "caub": "Yes !!!!",
+            "cauc": "Sure !!!",
+            "caud": "No problem !!1"
+          },
+          "reply": "caua"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "content": [
+        {
+          "id": 1,
+          "quest": "Bạn có ngu không ?",
+          "answer": {
+            "caua": "Có!!!!!",
+            "caub": "Yes !!!!",
+            "cauc": "Sure !!!",
+            "caud": "No problem !!1"
+          },
+          "reply": "caua"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "content": [
+        {
+          "id": 1,
+          "quest": "Bạn có ngu không ?",
+          "answer": {
+            "caua": "Có!!!!!",
+            "caub": "Yes !!!!",
+            "cauc": "Sure !!!",
+            "caud": "No problem !!1"
+          },
+          "reply": "caua"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "content": [
+        {
+          "id": 1,
+          "quest": "Bạn có ngu không ?",
+          "answer": {
+            "caua": "Có!!!!!",
+            "caub": "Yes !!!!",
+            "cauc": "Sure !!!",
+            "caud": "No problem !!1"
+          },
+          "reply": "caua"
+        }
+      ]
+    }
+  ]
